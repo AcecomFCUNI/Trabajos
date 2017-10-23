@@ -1,11 +1,12 @@
 # Trabajos Acecom
-Cada trabajo deberá ser presentado un grupo de miembros de ACECOM que será designado **11 de Diciembre**, la **fecha de presentación** será **después de la semana de Susti.**
+Cada trabajo deberá ser presentado de forma individual o en grupos de máximo 2 personas que no se lleven más de un ciclo de diferencia, se les designará un miembro de ACECOM como asesor el **7 de Noviembre**, la **fecha máxima para escoger su tema es hasta el 30 de Octubre**, los temas se irán descartando conforme los grupos vayan escogiendo, la **fecha de presentación** será **después de la semana de Susti.**
 
 El trabajo debe contar con lo siguiente:
 
 - El trabajado debera ser con un reporte que será subido a un repositorio de github, también se podrá usar [githubpages](https://pages.github.com/) para la presentación. [Ejemplo de presentación en githubpages](https://lestrois.github.io/BlazeEcosystem/)
-- Para la elaboración del trabajo **no se admitirán copias** , en caso de usar un página o autor citarlos.
-- Se deberá **usar mínimo 5 referencias** de los cuales **mínimo 2 deberán ser referencias en otro idioma**
+- Para la elaboración del trabajo **no se admitirán copias**, en caso de usar un página o autor citarlos.
+- Se deberá **usar mínimo 5 referencias** de los cuales **mínimo 2 deberán ser referencias en otro idioma**.
+- Presentación de un programa en base al tema escogido.
 
 
 ## 1er y 2do Ciclo
