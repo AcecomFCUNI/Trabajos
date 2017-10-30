@@ -3,7 +3,7 @@ Cada trabajo deberá ser presentado de forma individual o en grupos de máximo 2
 
 El trabajo debe contar con lo siguiente:
 
-- El trabajado debera ser con un reporte que será subido a un repositorio de github, también se podrá usar [githubpages](https://pages.github.com/) para la presentación. [Ejemplo de presentación en githubpages](https://lestrois.github.io/BlazeEcosystem/)
+- El trabajado debera ser con un reporte que será subido a un repositorio de github, también se podrá usar [githubpages](https://pages.github.com/) para la presentación. [Ejemplo de presentación en githubpages](https://lestrois.github.io/BlazeEcosystem/) , también se puede usar latex, markdown (**No se aceptarán presentaciones en word**)
 - Para la elaboración del trabajo **no se admitirán copias**, en caso de usar un página o autor citarlos.
 - Se deberá **usar mínimo 5 referencias** de los cuales **mínimo 2 deberán ser referencias en otro idioma**.
 - Presentación de un programa en base al tema escogido.
