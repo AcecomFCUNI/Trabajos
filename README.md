@@ -48,7 +48,7 @@ Ademas cálcule el error según método usado
   - Búsqueda por [A*](https://escarbandocodigo.wordpress.com/2011/07/11/1051/)
   - Aplicarlos dentro de un juego, implementelo con una interfaz grafica (no pacman).
 
-## 6to hacia adelante
+## 5to hacia adelante
 **1. Implementación del algoritmo SVD y sus aplicaciones.** Mayor información [aquí](http://www-users.math.umn.edu/~lerman/math5467/svd.pdf).
 
 **2. Implementaciones  de algoritmo aleatorios**
