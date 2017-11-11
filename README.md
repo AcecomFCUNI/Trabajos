@@ -1,6 +1,14 @@
 # Trabajos Acecom
 Cada trabajo deberá ser presentado de forma individual o en grupos de máximo 2 personas que no se lleven más de un ciclo de diferencia, se les designará un miembro de ACECOM como asesor el **7 de Noviembre**, la **fecha máxima para escoger su tema es hasta el 30 de Octubre**, los temas se irán descartando conforme los grupos vayan escogiendo, la **fecha de presentación** será **después de la semana de Susti.**
 
+Lista de grupos:
+- Pilas - Cesar Colorado
+- Listas enlazadas - David Ruegg
+- Árboles binarios de bÚsqueda - Samuel Leiva & Danilo Blas
+- Algoritmo de busqueda - claudia huacac chiri & alexandra ramirez 
+- Procesamiento de señales digitales (DSP) - Josias Ruegg
+
+
 El trabajo debe contar con lo siguiente:
 
 - El trabajado debera ser con un reporte que será subido a un repositorio de github, también se podrá usar [githubpages](https://pages.github.com/) para la presentación. [Ejemplo de presentación en githubpages](https://lestrois.github.io/BlazeEcosystem/) , también se puede usar latex, markdown (**No se aceptarán presentaciones en word**)
