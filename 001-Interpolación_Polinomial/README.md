@@ -1,5 +1,6 @@
 # Interpolación polinomial
 ## @autor: Luis Vasquez Espinoza
+## Fecha de inclusión: 2018/07/15
 
 ### Resumen
 Esta investigación se centró en el estudio e implementación de 3 métodos de interpolación de señales
